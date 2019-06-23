@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { writeFileSync } = require('fs');
 const { resolve } = require('path');
 const options = require('./options');
