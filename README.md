@@ -1,6 +1,6 @@
 # node-passgen
-[![version](https://img.shields.io/npm/v/node-passgen.svg?style=flat-square)](https://www.npmjs.com/package/file-replace-loader)
-[![license](https://img.shields.io/github/license/vyushin/node-passgen.svg?style=flat-square)](https://github.com/vyushin/file-replace-loader/blob/master/LICENSE)
+[![version](https://img.shields.io/npm/v/node-passgen.svg?style=flat-square)](https://www.npmjs.com/package/node-passgen)
+[![license](https://img.shields.io/github/license/vyushin/node-passgen.svg?style=flat-square)](https://github.com/vyushin/node-passgen/blob/master/LICENSE)
 
 node-passgen is a CLI utility with zero dependencies to generate strong password
 

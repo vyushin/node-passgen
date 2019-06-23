@@ -1,7 +1,7 @@
 {
   "name": "node-passgen",
-  "version": "1.1.0",
-  "description": "file-replace-loader is webpack loader that allows you replace files in compile time",
+  "version": "1.1.1",
+  "description": "node-passgen is a CLI utility with zero dependencies to generate strong password",
   "author": "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)",
   "contributors": [
     "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)"
@@ -20,11 +20,9 @@
   "main": "index.js",
   "license": "MIT",
   "keywords": [
-    "file",
-    "replace",
-    "webpack",
-    "loader",
-    "webpack-loader"
+    "password",
+    "generator",
+    "passgen"
   ],
   "directories": {
     "doc": "./README.md"
