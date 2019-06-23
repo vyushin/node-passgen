@@ -1,0 +1,32 @@
+{
+  "name": "node-passgen",
+  "version": "1.1.0",
+  "description": "file-replace-loader is webpack loader that allows you replace files in compile time",
+  "author": "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)",
+  "contributors": [
+    "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)"
+  ],
+  "maintainers": [
+    "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vyushin/node-passgen"
+  },
+  "bugs": {
+    "url": "https://github.com/vyushin/node-passgen/issues"
+  },
+  "homepage": "https://github.com/vyushin/node-passgen",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "file",
+    "replace",
+    "webpack",
+    "loader",
+    "webpack-loader"
+  ],
+  "directories": {
+    "doc": "./README.md"
+  }
+}

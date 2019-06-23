@@ -1,0 +1,1 @@
+{"numbers":{"value":true,"type":"boolean","default":true},"uppercase":{"value":true,"type":"boolean","default":true},"lowercase":{"value":true,"type":"boolean","default":true},"symbols":{"value":true,"type":"boolean","default":true},"length":{"value":12,"type":"number","default":12}}
