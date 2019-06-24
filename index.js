@@ -121,7 +121,7 @@ function setOption(key, value) {
   );
 
   clonedOptions[key].value = clonedOptions[key].type === 'boolean' ? JSON.parse(value) : Math.abs(parseInt(value));
-  writeFileSync(resolve('./options.json'), JSON.stringify(clonedOptions));
+  writeFileSync(resolve(__dirname, './options.json'), JSON.stringify(clonedOptions));
 }
 
 /**
