@@ -1,7 +1,7 @@
 {
   "name": "node-passgen",
-  "version": "1.1.3",
-  "description": "node-passgen is a CLI utility with zero dependencies to generate strong password",
+  "version": "1.1.4",
+  "description": "node-passgen is not supported",
   "author": "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)",
   "contributors": [
     "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)"
