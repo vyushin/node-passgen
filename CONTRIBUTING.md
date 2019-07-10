@@ -1,5 +1,3 @@
 # Contributing
 
-* Fork repository
-* Do something
-* Make pull request
+The project is not supported.
